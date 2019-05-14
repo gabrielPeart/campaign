@@ -1,5 +1,6 @@
 {
 	"template": {
+		"template_id": "1",
 		"background_image_url": "https://raw.githubusercontent.com/gabrielPeart/campaign-template1/master/ImageTemplate.png",
 		"button": {
 			"label": "BUTTON LABEL",
