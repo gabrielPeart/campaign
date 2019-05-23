@@ -5,7 +5,9 @@
 		"button": {
 			"label": "BUTTON LABEL",
 			"termsLabel": "By perfoming this action you agree to our Terms of Service and all other related actions within the interactive experience",
-			"action": "open_premium_view"
+			"action": {
+				"type": "profile"
+			}
 		}
 	},
 	"android_metadata": {
